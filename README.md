@@ -88,4 +88,4 @@ Now you can serve the application and hit the route ```/social-login``` with ```
 Licensed under the MIT License
 
 ## Author
-Pimple Suhsant (https://pimplesushant.in)
+Pimple Sushant (https://pimplesushant.in)
